@@ -14,6 +14,7 @@ This project demonstrates how to implement physics-based secondary animations us
 - **Customizable Parameters**: Fine-tune stiffness, damping, and mass for perfect motion
 - **3D Model Integration**: Works with Mixamo animated character models
 - **Performance Optimized**: Efficient implementation for smooth framerates
+- **React Three Fiber Integration**: Seamlessly works within the R3F ecosystem
 
 ## 🛠️ Tech Stack
 
